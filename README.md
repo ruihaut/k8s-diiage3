@@ -1,2 +1,3 @@
 # k8s-diiage3
-Regroupe tous les manifests et / ou tutos 
+
+Ce repo regroupe tous les manifests, TP ou tutos nécessaires pour l'intervention Kubernetes DIIAGE 3.
