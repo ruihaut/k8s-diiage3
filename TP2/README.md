@@ -71,7 +71,7 @@ Le fichier YAML contient 2 ressources :
 Il est possible de renseigner ses deux ressources dans un unique fichier grâce au **triple-dash** (`---`). Le triple-dash permet de définir une fin de fichier au format YAML.
 
 > **Note**  
-> Bien que le triple-dash soit utile, on préfèrera renseigner chaque ressource dans son propre fichier. Cela facilite notamment le templating des manifests, notamment avec HELM.
+> Bien que le triple-dash soit utile, on préfèrera renseigner chaque ressource dans son propre fichier. Cela facilite le templating des manifests, notamment avec [HELM](https://helm.sh/).
 
 L'avantage d'utiliser des fichiers pour déployer des ressources est qu'**on peut définir toutes les options nécessaires**. On a ainsi une **vision globale et claire** de ce qu'on déploie.
 
